@@ -39,7 +39,7 @@ public class Solution {
                         return false;
             }
         }
-        return true;        
+        return stack.empty();          
     }
   
     public static void main(String[] args) {
