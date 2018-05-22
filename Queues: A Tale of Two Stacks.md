@@ -1,7 +1,7 @@
-> In this challenge, you must first implement a queue using two stacks. Then process  queries, where each query is one of the following  types:
-1 x: Enqueue element  into the end of the queue.
-2: Dequeue the element at the front of the queue.
-3: Print the element at the front of the queue.
+> In this challenge, you must first implement a queue using two stacks. Then process q queries, where each query is one of the following 3 types:
+1. 1 x: Enqueue element x into the end of the queue.
+2. 2: Dequeue the element at the front of the queue.
+3. 3: Print the element at the front of the queue.
 
 ```java
 import java.io.*;
